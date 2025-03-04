@@ -1,0 +1,22 @@
+{
+  "name": "first-repo-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeoliveirasites/first-repor-remote.git"
+  },
+  "author": "Felipe Oliveira <felipeoliveirasites@gmal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipeoliveirasites/first-repor-remote/issues"
+  },
+  "homepage": "https://github.com/felipeoliveirasites/first-repor-remote#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
