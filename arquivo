@@ -1,0 +1,21 @@
+Major (quebrei codigos antigos) . Minor (função nova) . Patch (correção)
+
+1.0.0
+1.0.1
+1.0.2
+1.0.3
+
+1.1.0
+1.1.1
+1.1.2
+
+2.0.0
+
+$().each()
+$() - um elemento
+$$() - dois ou mais elementos
+
+"bootstrap": "*4.3.1, - x.x.x (Major, Minor e Patch)
+"bootstrap": "^4.3.1", - 4.x.x (Minor e Patch)
+"lodash": "~4.17.21", - 4.17.x (Patch)
+"lodash": "4.17.21", - 4.17.21 (Nada)
